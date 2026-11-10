@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /news/post-template.html
+Disallow: /en/news/post-template.html
+
+Sitemap: https://GENERGO.pro/sitemap.xml
